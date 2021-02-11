@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/speed-reading-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/speed-reading-app/static/js/main.e0325584.chunk.js",
-    "main.js.map": "/speed-reading-app/static/js/main.e0325584.chunk.js.map",
-    "runtime-main.js": "/speed-reading-app/static/js/runtime-main.c2462720.js",
-    "runtime-main.js.map": "/speed-reading-app/static/js/runtime-main.c2462720.js.map",
-    "static/js/2.e106eaf0.chunk.js": "/speed-reading-app/static/js/2.e106eaf0.chunk.js",
-    "static/js/2.e106eaf0.chunk.js.map": "/speed-reading-app/static/js/2.e106eaf0.chunk.js.map",
-    "static/js/3.7882ea29.chunk.js": "/speed-reading-app/static/js/3.7882ea29.chunk.js",
-    "static/js/3.7882ea29.chunk.js.map": "/speed-reading-app/static/js/3.7882ea29.chunk.js.map",
+    "main.css": "/speed-reading-app/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/speed-reading-app/static/js/main.ad246157.chunk.js",
+    "main.js.map": "/speed-reading-app/static/js/main.ad246157.chunk.js.map",
+    "runtime-main.js": "/speed-reading-app/static/js/runtime-main.0ff98985.js",
+    "runtime-main.js.map": "/speed-reading-app/static/js/runtime-main.0ff98985.js.map",
+    "static/js/2.75777198.chunk.js": "/speed-reading-app/static/js/2.75777198.chunk.js",
+    "static/js/2.75777198.chunk.js.map": "/speed-reading-app/static/js/2.75777198.chunk.js.map",
+    "static/js/3.15da17e9.chunk.js": "/speed-reading-app/static/js/3.15da17e9.chunk.js",
+    "static/js/3.15da17e9.chunk.js.map": "/speed-reading-app/static/js/3.15da17e9.chunk.js.map",
     "index.html": "/speed-reading-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/speed-reading-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e106eaf0.chunk.js.LICENSE.txt": "/speed-reading-app/static/js/2.e106eaf0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/speed-reading-app/static/media/logo.6ce24c58.svg"
+    "static/css/main.2ae47eeb.chunk.css.map": "/speed-reading-app/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.75777198.chunk.js.LICENSE.txt": "/speed-reading-app/static/js/2.75777198.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2462720.js",
-    "static/js/2.e106eaf0.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e0325584.chunk.js"
+    "static/js/runtime-main.0ff98985.js",
+    "static/js/2.75777198.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.ad246157.chunk.js"
   ]
 }
