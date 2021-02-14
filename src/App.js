@@ -18,15 +18,14 @@ function App() {
   const start = () => {
     run();
     setStatus(1);
-    setInterv(setInterval(run));
+    setInterv(setInterval(run, 1000));
   };
 
   const run = () => {
-    if (index > wordsArray.length - 1) {
+    if (index > wordsArray.length) {
       index = 0;
     }
-
-    return setWord({ word: wordsArray[index++] });
+    setWord({ word: wordsArray[index++] });
   };
 
   const stop = () => {
@@ -42,7 +41,6 @@ function App() {
 
   const resume = () => {
     start();
-    index++;
   };
 
   return (
