@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import DisplayComponent from "./Components/DisplayComponent";
 import BtnComponent from "./Components/BtnComponent";
 import "./App.css";
+import InputSlider from "./Components/Slider";
 
 function App() {
   var sentence = "A quick brown fox ran over the dog";
@@ -47,6 +48,7 @@ function App() {
     <div className="main-section">
       <div className="clock-holder">
         <h1>Test your Speed Reading skill</h1>
+        <InputSlider />
         <div className="word-count">
           <DisplayComponent data={word.word} />
           <BtnComponent
