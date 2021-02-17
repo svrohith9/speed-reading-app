@@ -2,14 +2,14 @@ import React, { useState } from "react";
 import DisplayComponent from "./Components/DisplayComponent";
 import BtnComponent from "./Components/BtnComponent";
 import "./App.css";
+import { customData } from "./Components/CustomData";
 import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
 import Input from "@material-ui/core/Input";
 
 function App() {
-  var sentence = "A quick brown fox ran over the dog";
-  var wordsArray = sentence.split(" ");
+  var wordsArray = customData.data.split(" ");
   var index = 0;
 
   const [word, setWord] = useState({ word: wordsArray[index] });
